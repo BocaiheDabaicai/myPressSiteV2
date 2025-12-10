@@ -3,3 +3,8 @@
 }
 
 /*// rgb(25, 29, 36)*/
+@media screen and (width<500px) {
+    .rspress-logo{
+        height:3.2rem;
+    }
+}
