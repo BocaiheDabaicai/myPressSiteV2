@@ -3,11 +3,12 @@ import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
-  title: 'My Site',
-  icon: '/rspress-icon.png',
+  globalStyles: path.join(__dirname, 'styles/index.css'),
+  title: '特别实现理想计划',
+  icon: '/page-icon.png',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/page-logo-light.png',
+    dark: '/page-logo-dark.png',
   },
   themeConfig: {
     socialLinks: [
