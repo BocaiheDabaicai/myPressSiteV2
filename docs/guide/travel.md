@@ -28,9 +28,11 @@
 
 参考链接：
 
-1. 84 【澳门穷游攻略‼️人均200💰直接速抄作业🔥 - 小薯片消灭 | 小红书 - 你的生活兴趣社区】 😆 zbnFN6emFwljGd9 😆 https://www.xiaohongshu.com/discovery/item/690f06ad000000000401183e?source=webshare&xhsshare=pc_web&xsec_token=AB0J3dPEccdJHuazOMglb4o2pPpdLARy7CdHqGbf5BKx8=&xsec_source=pc_share
+1. 84 【澳门穷游攻略‼️人均200💰直接速抄作业🔥 - 小薯片消灭 | 小红书 - 你的生活兴趣社区】 😆 zbnFN6emFwljGd9
+   😆 https://www.xiaohongshu.com/discovery/item/690f06ad000000000401183e?source=webshare&xhsshare=pc_web&xsec_token=AB0J3dPEccdJHuazOMglb4o2pPpdLARy7CdHqGbf5BKx8=&xsec_source=pc_share
 
-2. 71 【🇲🇴澳门一日游超全攻略 | 保姆级教程 - MilkaBaka. | 小红书 - 你的生活兴趣社区】 😆 mMkIhnQjYlxVQpT 😆 https://www.xiaohongshu.com/discovery/item/68546b670000000022032fea?source=webshare&xhsshare=pc_web&xsec_token=AB_aXZsCMG9A9kH1B05yF7Jvfkk1HCMXdl3eky1ZB2PKM=&xsec_source=pc_share
+2. 71 【🇲🇴澳门一日游超全攻略 | 保姆级教程 - MilkaBaka. | 小红书 - 你的生活兴趣社区】 😆 mMkIhnQjYlxVQpT
+   😆 https://www.xiaohongshu.com/discovery/item/68546b670000000022032fea?source=webshare&xhsshare=pc_web&xsec_token=AB_aXZsCMG9A9kH1B05yF7Jvfkk1HCMXdl3eky1ZB2PKM=&xsec_source=pc_share
 
 ## 12月24日 香港（第二天）
 
@@ -67,15 +69,23 @@
 
 参考链接：
 
-1. 81 【珠海出发｜香港一日攻略笔记 - 十口一只羊 | 小红书 - 你的生活兴趣社区】 😆 oDByQtU5FKBd719 😆 https://www.xiaohongshu.com/discovery/item/6878e351000000002203f230?source=webshare&xhsshare=pc_web&xsec_token=AB1tVYn5E2PN8O8qyMuJqXKrEPhT9k_Ztjc-Xjv5BivSY=&xsec_source=pc_share
+1. 81 【珠海出发｜香港一日攻略笔记 - 十口一只羊 | 小红书 - 你的生活兴趣社区】 😆 oDByQtU5FKBd719
+   😆 https://www.xiaohongshu.com/discovery/item/6878e351000000002203f230?source=webshare&xhsshare=pc_web&xsec_token=AB1tVYn5E2PN8O8qyMuJqXKrEPhT9k_Ztjc-Xjv5BivSY=&xsec_source=pc_share
 
-2. 15 【深圳北出发—香港一日游完整攻略！（收藏版） - 橘子的深圳生活 | 小红书 - 你的生活兴趣社区】 😆 txBu7DgPcfNKgQv 😆 https://www.xiaohongshu.com/discovery/item/68e776670000000007009059?source=webshare&xhsshare=pc_web&xsec_token=ABhZYdzPp5wFdUu2X9avflpHkRy85d16RZpZFZYPX2oGQ=&xsec_source=pc_share
+2. 15 【深圳北出发—香港一日游完整攻略！（收藏版） - 橘子的深圳生活 | 小红书 - 你的生活兴趣社区】 😆 txBu7DgPcfNKgQv
+   😆 https://www.xiaohongshu.com/discovery/item/68e776670000000007009059?source=webshare&xhsshare=pc_web&xsec_token=ABhZYdzPp5wFdUu2X9avflpHkRy85d16RZpZFZYPX2oGQ=&xsec_source=pc_share
 
 ## 12月25-26日 潮汕（第三、四天）
 
 #### 行程：深圳北 -> 汕头 🚅
 
 #### 时间：10:00 a.m. - 12:00 a.m.
+
+#### 住宿：
+
+-  建议住十一合村周围，临近公园、树林，不吵
+
+- 情况，当天吃一天、第二天吃一天、需要住两天
 
 来到这里主要就是吃喝玩乐+徒步
 
@@ -110,7 +120,11 @@
 
 - 小吃：腐乳鸡翅、各种馃、甘草水果、冬瓜茶、甜汤、牛肉炒粉签
 
-- 特产：丸子、反沙三味、虾膏、风吹饼、猪肉脯、腊肠、
+- 特产：丸子、反沙三味、虾膏、风吹饼、猪肉脯、腊肠
+
+路线图：
+
+![](./cs_map.png)
 
 参考图：
 
@@ -121,8 +135,10 @@
 
 参考链接：
 
-1. 24 【🔥12-2月潮汕淡季冲！保姆级攻略来咯 - 心情不太好. | 小红书 - 你的生活兴趣社区】 😆 70nZ6aYHYlfYFtn 😆 https://www.xiaohongshu.com/discovery/item/693a72c8000000001e037c30?source=webshare&xhsshare=pc_web&xsec_token=ABceoGHVjuLRby6-iml-FYxxkAetz-B9msZWVmUP_SeS4=&xsec_source=pc_share
-2. 73 【吃货必看！！汕头美食纯吃攻略 全是干货 - 吃货阿王逛吃逛吃 | 小红书 - 你的生活兴趣社区】 😆 vvKk0basZjZ8peE 😆 https://www.xiaohongshu.com/discovery/item/691194150000000004016608?source=webshare&xhsshare=pc_web&xsec_token=ABZu-aA2IejnqdQu59Ymmz8xYGuYyuaen1grhnHNbxaU4=&xsec_source=pc_share
+1. 24 【🔥12-2月潮汕淡季冲！保姆级攻略来咯 - 心情不太好. | 小红书 - 你的生活兴趣社区】 😆 70nZ6aYHYlfYFtn
+   😆 https://www.xiaohongshu.com/discovery/item/693a72c8000000001e037c30?source=webshare&xhsshare=pc_web&xsec_token=ABceoGHVjuLRby6-iml-FYxxkAetz-B9msZWVmUP_SeS4=&xsec_source=pc_share
+2. 73 【吃货必看！！汕头美食纯吃攻略 全是干货 - 吃货阿王逛吃逛吃 | 小红书 - 你的生活兴趣社区】 😆 vvKk0basZjZ8peE
+   😆 https://www.xiaohongshu.com/discovery/item/691194150000000004016608?source=webshare&xhsshare=pc_web&xsec_token=ABZu-aA2IejnqdQu59Ymmz8xYGuYyuaen1grhnHNbxaU4=&xsec_source=pc_share
 
 ## 12月27日 贵阳（返程）
 
