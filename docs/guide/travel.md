@@ -34,7 +34,7 @@
 2. 71 【🇲🇴澳门一日游超全攻略 | 保姆级教程 - MilkaBaka. | 小红书 - 你的生活兴趣社区】 😆 mMkIhnQjYlxVQpT
    😆 https://www.xiaohongshu.com/discovery/item/68546b670000000022032fea?source=webshare&xhsshare=pc_web&xsec_token=AB_aXZsCMG9A9kH1B05yF7Jvfkk1HCMXdl3eky1ZB2PKM=&xsec_source=pc_share
 
-## 12月24-25日 香港（第二天）
+## 12月24-25日 香港（第二、三天）
 
 #### 行程：珠海 -> 香港 🚌
 
@@ -70,10 +70,14 @@
 
 交给LR
 
-| 地点     | 时间     | 花费  | 出行方式 | 备注           |
-| ------ | ------ | --- | ---- | ------------ |
-| 麦理浩径   | 180min |     | 巴士车  | 北潭涌 -> 浪茄 即可 |
-| 西九龙高铁站 |        |     | 地铁   |              |
+| 地点        | 时间     | 花费  | 出行方式 | 备注                |
+| --------- | ------ | --- | ---- | ----------------- |
+| 麦理浩径      | 180min |     | 巴士车  | 北潭涌 -> 浪茄 即可      |
+| 港铁至沙田站    |        |     | 地铁   | A2出口乘坐299X        |
+| 西贡总站      |        |     | 巴士   | 94/96R巴士至北谭淙      |
+| 麦理浩径起点    |        |     | 的士   | 打车uber至东坝/9A小巴至东坝 |
+| 破边洲and浪茄湾 |        |     | 徒步   | 下撤原路返回            |
+| 西九龙高铁站    |        |     | 地铁   |                   |
 
 #### 参考图
 
@@ -152,7 +156,7 @@
 2. 73 【吃货必看！！汕头美食纯吃攻略 全是干货 - 吃货阿王逛吃逛吃 | 小红书 - 你的生活兴趣社区】 😆 vvKk0basZjZ8peE
    😆 https://www.xiaohongshu.com/discovery/item/691194150000000004016608?source=webshare&xhsshare=pc_web&xsec_token=ABZu-aA2IejnqdQu59Ymmz8xYGuYyuaen1grhnHNbxaU4=&xsec_source=pc_share
 
-## 12月27日 贵阳（返程）
+## 12月28日 贵阳（返程）
 
 #### 行程：汕头 -> 深圳北 -> 贵阳北 -> 回家🚅
 
